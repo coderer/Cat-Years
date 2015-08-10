@@ -45,6 +45,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		794C0D3A1B7820540055EAE4 /* App Icons */ = {
+			isa = PBXGroup;
+			children = (
+				794C0D361B781C0A0055EAE4 /* 120 ico.png */,
+				794C0D381B781C740055EAE4 /* 80.png */,
+				794C0D341B78107F0055EAE4 /* 60 ico.png */,
+				794C0D321B780F3F0055EAE4 /* cat ico.png */,
+				794C0D2E1B7809980055EAE4 /* grumpy.png */,
+			);
+			name = "App Icons";
+			sourceTree = "<group>";
+		};
 		79D8706E1B76BB85006690F6 = {
 			isa = PBXGroup;
 			children = (
@@ -66,11 +78,7 @@
 			children = (
 				79D8707A1B76BB85006690F6 /* AppDelegate.swift */,
 				79D8707C1B76BB85006690F6 /* ViewController.swift */,
-				794C0D361B781C0A0055EAE4 /* 120 ico.png */,
-				794C0D381B781C740055EAE4 /* 80.png */,
-				794C0D341B78107F0055EAE4 /* 60 ico.png */,
-				794C0D321B780F3F0055EAE4 /* cat ico.png */,
-				794C0D2E1B7809980055EAE4 /* grumpy.png */,
+				794C0D3A1B7820540055EAE4 /* App Icons */,
 				79D8707E1B76BB85006690F6 /* Main.storyboard */,
 				79D870811B76BB85006690F6 /* Assets.xcassets */,
 				79D870831B76BB85006690F6 /* LaunchScreen.storyboard */,
